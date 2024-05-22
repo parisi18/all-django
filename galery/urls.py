@@ -1,7 +1,7 @@
 from django.urls import path
-from galery.views import index, image
+from galery.views import index, imagem
 
 urlpatterns = [
     path('', index),
-    path('image/', image)
+    path('imagem/', imagem)
 ]
