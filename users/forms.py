@@ -57,3 +57,13 @@ class SubscribeForm(forms.Form):
                    'placeholder': 'Type your password again'}
         )
     )
+
+    def clean_username(self):
+        username = self.cleaned_data.get('username')
+
+        if username:
+            username = username.strip()
+            if " " in username:
+                raise forms.ValidationError("Username can't have spaces")
+            else:
+                return username
