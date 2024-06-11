@@ -38,9 +38,7 @@ def subscribe(request):
         form = SubscribeForm(request.POST)
 
         if form.is_valid():
-            if form["password"].value() != form["password_confirm"].value():
-                messages.error(request, 'Passwords do not match')
-                return redirect('subscribe')
+            
         
             username = form['username'].value()
             email = form['email'].value()

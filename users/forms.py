@@ -67,3 +67,13 @@ class SubscribeForm(forms.Form):
                 raise forms.ValidationError("Username can't have spaces")
             else:
                 return username
+
+    def clean_password_confirm(self):
+            password = self.cleaned_data.get('password')
+            password_confirm = self.cleaned_data.get('password_confirm')
+
+            if password and password_confirm:
+                if password != password_confirm:
+                    raise forms.ValidationError("Passwords do not match")
+                else:
+                    return password_confirm
