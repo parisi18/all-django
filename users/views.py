@@ -57,3 +57,8 @@ def subscribe(request):
             return redirect('login')
             
     return render(request, 'users/subscribe.html', {'form': form})
+
+def logout(request):
+    auth.logout(request)
+    messages.success(request, 'You are now logged out')
+    return redirect('index')
