@@ -23,9 +23,16 @@
 </details>
 
 <details>
-<summary> Django Journey 3/4 </summary>
+<summary> Django Journey 3/4 ✔️</summary>
 
-## DJANGO: PT-BR 🇧🇷 // DJANGO: EN-US 🇺🇸 
+## DJANGO: AUTENTICAÇÃO DE FORMULÁRIOS E ALERTA 🇧🇷 // DJANGO: FORMS AUTHENTICATION AND ALERTS 🇺🇸 
+![image](https://github.com/parisi18/all-django/assets/66031419/22a30124-8acc-45d8-9fe0-51c0c4cc8b81)
+![image](https://github.com/parisi18/all-django/assets/66031419/11245d9a-24b5-412c-92dc-f2ed4bc3477b)
+![image](https://github.com/parisi18/all-django/assets/66031419/3cb2a9ab-06d9-40d8-b90f-6d243016b472)
+![image](https://github.com/parisi18/all-django/assets/66031419/f0ef97a6-7289-4f1b-8e71-db6dca4b201a)
+
+
+
 
 </details>
 
