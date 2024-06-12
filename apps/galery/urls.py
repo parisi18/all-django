@@ -1,5 +1,5 @@
 from django.urls import path
-from galery.views import *
+from apps.galery.views import *
 
 urlpatterns = [
     path('', index, name='index'),

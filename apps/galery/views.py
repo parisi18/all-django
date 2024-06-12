@@ -1,6 +1,5 @@
 from django.shortcuts import render, get_object_or_404, redirect
 from .models import Fotografia
-from users.views import login
 from django.contrib import messages
 
 def index(request):
