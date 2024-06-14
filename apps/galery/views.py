@@ -27,3 +27,12 @@ def buscar(request):
             fotografias = fotografias.filter(nome__icontains=nome_a_buscar)
 
     return render(request, 'galery/buscar.html', {"cards": fotografias})
+
+def new_image(request):
+    return render(request, 'galery/new_image.html')
+
+def edit_image(request):
+    pass
+
+def delete_image(request):
+    pass
