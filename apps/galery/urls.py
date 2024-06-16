@@ -7,5 +7,6 @@ urlpatterns = [
     path('buscar', buscar, name='buscar'),
     path('new-image', new_image, name='new-image'),
     path('edit-image/<int:foto_id>', edit_image, name='edit-image'),
-    path('delete-image/<int:foto_id>', delete_image, name='delete-image')
+    path('delete-image/<int:foto_id>', delete_image, name='delete-image'),
+    path('filter/<str:category>', filter, name='filter'),
 ]
