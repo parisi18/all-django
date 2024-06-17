@@ -42,6 +42,14 @@
 ![image](https://github.com/parisi18/all-django/assets/66031419/c08306fd-dc8d-4385-a178-041b0dc66d36)
 ![image](https://github.com/parisi18/all-django/assets/66031419/49df1eb7-54e4-4564-b866-7074144e21e2)
 
-
-
 </details>
+
+![image](https://github.com/parisi18/all-django/assets/66031419/d6e987d9-833a-4099-b1c5-5c5361d98328)
+![image](https://github.com/parisi18/all-django/assets/66031419/3093f9b2-3224-415b-a816-2d7779e379ce)
+![image](https://github.com/parisi18/all-django/assets/66031419/3795d82b-708b-4761-a91d-15efb786c4af)
+![image](https://github.com/parisi18/all-django/assets/66031419/9a646d4d-2cf9-4a53-af0c-df01a5067357)
+
+
+
+
+
