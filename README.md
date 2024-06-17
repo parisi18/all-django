@@ -31,16 +31,17 @@
 ![image](https://github.com/parisi18/all-django/assets/66031419/3cb2a9ab-06d9-40d8-b90f-6d243016b472)
 ![image](https://github.com/parisi18/all-django/assets/66031419/f0ef97a6-7289-4f1b-8e71-db6dca4b201a)
 
-
-
-
-</details>
-
 </details>
 
 <details>
-<summary> Django Journey 4/4 </summary>
+<summary> Django Journey 4/4 ✔️</summary>
 
-## DJANGO: PT-BR 🇧🇷 // DJANGO: EN-US 🇺🇸 
+## DJANGO: CRUD E PERSISTÊNCIA NO S3 🇧🇷 // DJANGO: CRUD AND PERSISTENCE ON S3 🇺🇸 
+![image](https://github.com/parisi18/all-django/assets/66031419/3811b45c-4f95-48f8-ad3d-11e1194bde70)
+![image](https://github.com/parisi18/all-django/assets/66031419/6b0265b6-48b0-4b3f-948c-9b2becca2107)
+![image](https://github.com/parisi18/all-django/assets/66031419/c08306fd-dc8d-4385-a178-041b0dc66d36)
+![image](https://github.com/parisi18/all-django/assets/66031419/49df1eb7-54e4-4564-b866-7074144e21e2)
+
+
 
 </details>
